@@ -30,9 +30,6 @@ Here are some ideas to get you started:
   
 
 - 😁 Please feel free to reach out if you are interested in having me on your team!  
-
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carterbrooks91/), carter.brooks91@gmail.com
   
 
 <br/>  
