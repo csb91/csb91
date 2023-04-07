@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [OpenAI-Tweet-Blog](https://github.com/csb91/openai-tweet-blog)  
   
 
-- 🌱 I’m currently learning Vue/Typescript + GraphQL
+- 🌱 I’m currently learning Nextjs/Typescript + GraphQL
   
 
 - 😁 Please feel free to reach out if you are interested in having me on your team!  
