@@ -95,9 +95,8 @@ Here are some ideas to get you started:
 ## Projects  
 <table><tr><td valign="top" width="50%">
 <h3 align='center'> Swan </h3>
-<img src='https://github.com/hr-fec-hyacinth/fec/blob/c1487e4ea0259dd5d8ad15fbac9066cd2a0c41af/Swan.gif' />
 <div align="center">
-
+<img src='https://github.com/hr-fec-hyacinth/fec/blob/c1487e4ea0259dd5d8ad15fbac9066cd2a0c41af/Swan.gif' />
 </div>
   
 </td><td valign="top" width="50%">
