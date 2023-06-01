@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align='center'> OpenAI+Tweet+Blog </h3>
   <a href="https://github.com/csb91/openai-tweet-blog">
-    <img src='https://github.com/hr-fec-hyacinth/fec/blob/c1487e4ea0259dd5d8ad15fbac9066cd2a0c41af/Swan.gif' />
+    <img src='https://placehold.co/600x400' />
   </a>
 <div align='center'>
   <a href="https://github.com/csb91/openai-tweet-blog">
