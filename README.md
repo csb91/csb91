@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Recent Blog Posts  
+## Projects  
   
 
 <br/>  
