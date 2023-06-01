@@ -106,7 +106,7 @@ Here are some ideas to get you started:
 <table><tr><td valign="top" width="50%">
 
 <div align="center">
-### Frontend 
+<img src='https://media.giphy.com/media/qoyN5TfbfKTfcjph5t/giphy.gif' />
 </div>
   
 </td><td valign="top" width="50%">
