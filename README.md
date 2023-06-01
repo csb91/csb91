@@ -98,7 +98,9 @@ Here are some ideas to get you started:
 <div align="center">
 <img src='https://github.com/hr-fec-hyacinth/fec/blob/c1487e4ea0259dd5d8ad15fbac9066cd2a0c41af/Swan.gif' />
 <div align='center'>
-  test
+  <a href="https://github.com/hr-fec-hyacinth/fec">
+          <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
+        </a>
 </div>
 </div>
   
