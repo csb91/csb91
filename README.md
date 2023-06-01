@@ -109,7 +109,14 @@ Here are some ideas to get you started:
 ### Frontend 
 </div>
   
+</td><td valign="top" width="50%">
+<div align="center">
+### Frontend 
+</div>
+  
 </td></tr></table>
+
+
 
 <br/>  
 
