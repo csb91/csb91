@@ -103,7 +103,17 @@ Here are some ideas to get you started:
 
 
 ## Projects  
+<table><tr><td valign="top" width="50%">
+
+<div align="center">
+### Frontend 
+</div>
   
+<table><tr><td valign="top" width="50%">
+<div align="center">
+### Frontend 
+</div>
+</td></tr></table>
 
 <br/>  
 
