@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 <div align="center">
 <h3 align='center'> OpenAI+Tweet+Blog </h3>
   <a href="https://github.com/csb91/openai-tweet-blog">
-    <img src='https://placehold.co/600x400' />
+    <img src='https://github.com/csb91/openai-tweet-blog/blob/main/src/assets/gpt3-input.png' />
   </a>
 <div align='center'>
   <a href="https://github.com/csb91/openai-tweet-blog">
