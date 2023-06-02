@@ -107,7 +107,7 @@ Here are some ideas to get you started:
 </div>
 <div align='center'>
   <h4>
-  React, Tailwind, Express, Webpack
+  React, Tailwind, Express, Webpack, AWS (EC2)
   </h4>
   <h5>
   Responsive E-Commerce Site Optimized for SEO
