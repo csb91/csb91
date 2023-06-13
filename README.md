@@ -131,7 +131,7 @@ Here are some ideas to get you started:
   MERN Stack, MUI, Vite
   </h4>
   <h5>
-  Twitter Managment Tool with Content Generation through OpenAI API
+  Twitter Management Tool with Content Generation through OpenAI API
   </h5>
 </div>
 </div>
