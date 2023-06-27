@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
   
 
-### <div align="center">I'm Carter, a full-stack developer seeking seeking full time employment.</div>  
-  
+### <div align="center" text><h1>Hi I'm Carter</h1></div>  
+### <div align="center">I'm a web developer seeking seeking full time employment.</div>  
 
 - 🔭 I’m currently working on [OpenAI-Tweet-Blog](https://github.com/csb91/openai-tweet-blog)  
   
@@ -168,9 +168,8 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=csb91&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=csb91&show_icons=true&theme=dark" align="center" /></div> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csb91&show_icons=true&theme=radical)
 
 
 <br/>  
@@ -190,4 +189,3 @@ Here are some ideas to get you started:
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
