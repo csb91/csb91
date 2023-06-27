@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
   
 
-### <div align="center" text><h1>Hi I'm Carter</h1></div>  
-### <div align="center">I'm a web developer seeking seeking full time employment.</div>  
+### <div align="center" text><h1>Hi I'm Carter!</h1></div>  
+### <div align="center">I'm a software engineer seeking seeking full time employment.</div>  
 
 - 🔭 I’m currently working on [OpenAI-Tweet-Blog](https://github.com/csb91/openai-tweet-blog)  
   
